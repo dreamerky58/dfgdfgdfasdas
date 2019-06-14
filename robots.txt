@@ -1,0 +1,15 @@
+User-Agent: *
+Disallow: /admin/
+Disallow: /css/
+Disallow: /fn/
+Disallow: /js/
+Disallow: /kit/
+Disallow: /error
+Disallow: /top.php
+Disallow: /bottom.php
+Allow: /
+Allow: /hizmetlerimiz
+Allow: /projelerimiz
+Allow: /hakkmizda
+Allow: /iletisim
+Sitemap: /sitemap.xml
